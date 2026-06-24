@@ -1,0 +1,20 @@
+{
+  "lib/chainlink-evm": {
+    "tag": {
+      "name": "v0.3.3",
+      "rev": "793106cd598da8b2762958880300787b0b361fa1"
+    }
+  },
+  "lib/forge-std": {
+    "tag": {
+      "name": "v1.16.1",
+      "rev": "620536fa5277db4e3fd46772d5cbc1ea0696fb43"
+    }
+  },
+  "lib/openzepplin-contracts": {
+    "tag": {
+      "name": "v4.5.0",
+      "rev": "a5445b0afb8b350417b6e6ab3160554967bc151f"
+    }
+  }
+}
